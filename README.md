@@ -16,7 +16,7 @@ O objetivo principal é automatizar o processo de validação metrológica e a e
 
 Uma demonstração completa do funcionamento da plataforma (fim a fim) cobrindo o upload da planilha, visualização local e o processamento orquestrado na AWS está disponível no YouTube:
 
-[![Vídeo de Demonstração](https://img.shields.io/badge/YouTube-Assistir_Demonstração-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=VLJsef1p9pA)
+[![Vídeo de Demonstração](https://img.shields.io/badge/YouTube-Assistir_Demonstração-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=t-fiT-HkLh8)
 
 ---
 
